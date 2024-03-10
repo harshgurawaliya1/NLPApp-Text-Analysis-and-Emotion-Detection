@@ -65,7 +65,7 @@ Proficiency in using version control systems like Git for collaborative developm
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/NLPApp.git
+   git clone https://github.com/harshgurawaliya1/NLPApp-Text-Analysis-and-Emotion-Detection.git
    cd NLPApp
 
 2.Install dependencies:
