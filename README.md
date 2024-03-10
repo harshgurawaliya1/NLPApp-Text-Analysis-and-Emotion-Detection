@@ -1,5 +1,5 @@
 # NLPApp - Natural Language Processing Application
-
+WORKING SCREENSHOTS WITH GOOGLE API
 NLPApp is a Python-based desktop application that leverages Natural Language Processing (NLP) techniques for text analysis and emotion detection. The application provides features for sentiment analysis, named entity recognition, and emotion prediction using google,amazon and openai API.
 
 ## Table of Contents
