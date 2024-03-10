@@ -80,17 +80,17 @@ For this TEXT : SpaceX is an aerospace manufacturer and space transport services
 ![named entity recognition](https://github.com/harshgurawaliya1/NLPApp-Text-Analysis-and-Emotion-Detection/assets/106898396/4e07ac1a-60c9-4fe4-97ed-6ea0166d65c7)
 ![emotion detection](https://github.com/harshgurawaliya1/NLPApp-Text-Analysis-and-Emotion-Detection/assets/106898396/2e66718c-9ac2-438d-97b7-b0f57e32310c)
 
-
+### api-integration
 API Integration
 The application utilizes an external EDEN API for sentiment analysis, named entity recognition, and emotion detection. Ensure that you have the necessary API key configured. My key will stop working eventually
 
-Contributing
+### Contributing
 Contributions are welcome! Please follow the Contribution Guidelines.
 
-License
+ ### License
 This project is licensed under the MIT License.
 
-Acknowledgments
+### Acknowledgments
 Special thanks to EDEN AI for providing the NLP API used in this project.
 Hat tip to anyone whose code was used or inspired.
 
