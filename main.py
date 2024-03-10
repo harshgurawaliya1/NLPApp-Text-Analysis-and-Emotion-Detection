@@ -226,7 +226,7 @@ class NLPApp:
         text1 = self.ner_input.get()
 
         if __name__ == "__main__":
-            api_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNmM2NDkxMTUtNzZhNy00MWJkLThjMWMtZDY0ZGM5Nzg5NzlmIiwidHlwZSI6ImFwaV90b2tlbiJ9.PBKWqCva2wPLnOPsJf7yt4vBJF5ZaLjr4CmrDxG5r9E"
+            api_key = "(your api key)"
             api_instance = SentimentAnalysisAPI(api_key)
 
 
