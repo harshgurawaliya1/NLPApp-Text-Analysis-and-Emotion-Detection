@@ -7,6 +7,7 @@ NLPApp is a Python-based desktop application that leverages Natural Language Pro
 ## Table of Contents
 
 - [Features](#features)
+- [Key-Skills](#key-skills)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -30,6 +31,27 @@ NLPApp is a Python-based desktop application that leverages Natural Language Pro
 
 3. **Database Integration:**
    - User data is stored securely using a local database.
+  
+Technical Skills:
+### key-skills
+Python Programming:
+
+Proficiency in Python, as it is the primary language used for the development of the application.
+Tkinter (GUI Library):
+
+Knowledge of Tkinter for building the graphical user interface (GUI) of the desktop application.
+Database Management:
+
+Understanding of database concepts and the ability to integrate a local database for user authentication and data storage.
+API Integration:
+
+Experience with integrating external APIs, in this case, for sentiment analysis, named entity recognition, and emotion detection.
+Natural Language Processing (NLP):
+
+Familiarity with NLP concepts and techniques for implementing sentiment analysis, named entity recognition, and emotion detection functionalities.
+Version Control:
+
+Proficiency in using version control systems like Git for collaborative development and code management.
 
 ## Getting Started
 
